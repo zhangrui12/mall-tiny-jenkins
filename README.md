@@ -1,3 +1,4 @@
 # mall-tiny-jenkins
 practise jenkins
-## change from local
+change from remote
+CI CD
